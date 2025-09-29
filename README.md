@@ -4,7 +4,7 @@
 
 ## 🚀 What I'm Currently Exploring
 
-- **Web Scraping & Data Collection** with Python (Requests, Beautiful Soup)
+- **Web Scraping & Data Collection** with Python
 - **Database Management** with MongoDB
 - **Data Processing & Analysis** using Pandas and NumPy
 - **Deep Learning Fundamentals** with TensorFlow and PyTorch
