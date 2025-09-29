@@ -35,13 +35,14 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 <!--![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)-->
 
+<!--
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Polopius&show_icons=true&theme=default" alt="Paul's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Polopius&show_icons=true&theme=default" alt="My GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polopius&layout=compact&theme=default" alt="Top Languages" />
 </p>
-
+-->
 ## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-jonathan-72116330b)
