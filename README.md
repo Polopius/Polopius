@@ -35,7 +35,7 @@ I'm a Computer Science student at Binus University Alam Sutera currently diving 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-# ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<!--![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)-->
 
 ## 📈 GitHub Stats
 
@@ -45,8 +45,6 @@ I'm a Computer Science student at Binus University Alam Sutera currently diving 
 </p>
 
 ## 📫 Let's Connect!
-
-I'm always open to discussing technology, collaboration opportunities, or just chatting about data science!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-jonathan-72116330b)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulj.61204@gmail.com)
