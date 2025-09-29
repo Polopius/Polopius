@@ -2,8 +2,6 @@
 
 **Computer Science Student | Machine Learning & Data Enthusiast**
 
-I'm a Computer Science student at Binus University Alam Sutera currently diving deep into the world of data science and software development. I'm passionate about collecting, processing, and extracting insights from data through machine learning.
-
 ## 🚀 What I'm Currently Exploring
 
 - **Web Scraping & Data Collection** with Python (Requests, Beautiful Soup)
@@ -40,8 +38,8 @@ I'm a Computer Science student at Binus University Alam Sutera currently diving 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" alt="Paul's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Polopius&show_icons=true&theme=default" alt="Paul's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polopius&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
 ## 📫 Let's Connect!
