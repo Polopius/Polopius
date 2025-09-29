@@ -49,5 +49,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulj.61204@gmail.com)
 
 ---
-
+<!--
 ⭐ *From [Paul Jonathan](https://github.com/Polopius)*
+-->
