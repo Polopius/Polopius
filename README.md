@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Paul Jonathan
 
-**Computer Science Student | Machine Learning & Data Enthusiast**
+**Computer Science Student | Machine Learning & Data **
 
 ## 🚀 What I'm Currently Exploring
 
@@ -49,4 +49,4 @@
 
 ---
 
-⭐ *From [Paul Jonathan](https://github.com/YOUR_USERNAME)*
+⭐ *From [Paul Jonathan](https://github.com/Polopius)*
