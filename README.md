@@ -8,7 +8,7 @@
 - **Database Management** with MongoDB & SQL
 - **Data Processing & Analysis** using Pandas and NumPy
 - **Deep Learning Fundamentals** with TensorFlow and PyTorch
-- **Data Visualization** with Streamlit
+- **Data Visualization**
 - **Real-world Software Development** practices
 
 ## 💻 Tech Stack & Tools
