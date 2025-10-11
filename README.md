@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Paul Jonathan
 
-**Computer Science Student | Machine Learning & Data**
+**Computer Science Student | Machine Learning, Data, Software Development, and Fullstack**
 
 ## 🚀 What I'm Currently Exploring
 
