@@ -5,10 +5,11 @@
 ## 🚀 What I'm Currently Exploring
 
 - **Web Scraping & Data Collection** with Python
-- **Database Management** with MongoDB & SQL
-- **Data Processing & Analysis** using Pandas and NumPy
+- **Database Management** with MongoDB & Postgres
+- **Data Processing & Analysis**
 - **Deep Learning Fundamentals** with TensorFlow and PyTorch
 - **Data Visualization**
+- **Fullstack Development** with Node and React
 - **Real-world Software Development** practices
 
 ## 💻 Tech Stack & Tools
